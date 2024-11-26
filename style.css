@@ -1,0 +1,16 @@
+#movie-title span#jp {
+  display: none;
+}
+
+#movie-title:hover span#jp {
+  display: inline;
+  cursor: pointer;
+}
+
+#movie-title span#en {
+  display: inline;
+}
+
+#movie-title:hover span#en {
+  display: none;
+}
